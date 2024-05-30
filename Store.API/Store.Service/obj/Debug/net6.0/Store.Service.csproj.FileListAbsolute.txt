@@ -1,0 +1,17 @@
+F:\courses\Route\06 API\Store.API\Store.Service\bin\Debug\net6.0\Store.Service.deps.json
+F:\courses\Route\06 API\Store.API\Store.Service\bin\Debug\net6.0\Store.Service.dll
+F:\courses\Route\06 API\Store.API\Store.Service\bin\Debug\net6.0\Store.Service.pdb
+F:\courses\Route\06 API\Store.API\Store.Service\bin\Debug\net6.0\Store.Data.dll
+F:\courses\Route\06 API\Store.API\Store.Service\bin\Debug\net6.0\Store.Repository.dll
+F:\courses\Route\06 API\Store.API\Store.Service\bin\Debug\net6.0\Store.Repository.pdb
+F:\courses\Route\06 API\Store.API\Store.Service\bin\Debug\net6.0\Store.Data.pdb
+F:\courses\Route\06 API\Store.API\Store.Service\obj\Debug\net6.0\Store.Service.csproj.AssemblyReference.cache
+F:\courses\Route\06 API\Store.API\Store.Service\obj\Debug\net6.0\Store.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\courses\Route\06 API\Store.API\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfoInputs.cache
+F:\courses\Route\06 API\Store.API\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfo.cs
+F:\courses\Route\06 API\Store.API\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CoreCompileInputs.cache
+F:\courses\Route\06 API\Store.API\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CopyComplete
+F:\courses\Route\06 API\Store.API\Store.Service\obj\Debug\net6.0\Store.Service.dll
+F:\courses\Route\06 API\Store.API\Store.Service\obj\Debug\net6.0\refint\Store.Service.dll
+F:\courses\Route\06 API\Store.API\Store.Service\obj\Debug\net6.0\Store.Service.pdb
+F:\courses\Route\06 API\Store.API\Store.Service\obj\Debug\net6.0\ref\Store.Service.dll
